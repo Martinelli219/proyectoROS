@@ -63,19 +63,19 @@
 
 <link name="tilt_link_1">
   <inertial>
-    <origin xyz="0.019020433357334488 0.0003869267483030542 0.03746738590146777" rpy="0 0 0"/>
-    <mass value="0.13175271562285779"/>
-    <inertia ixx="2.8e-05" iyy="4.5e-05" izz="2.3e-05" ixy="-0.0" iyz="-0.0" ixz="-0.0"/>
-  </inertial>
+      <origin rpy="0 0 0" xyz="0 0 0.030974"/>
+      <mass value="0.127335" />
+      <inertia ixx="0.0003487000" iyy="0.0002050000" izz="0.0003045000" ixy="0" ixz="0" iyz="0" />
+    </inertial>
   <visual>
-    <origin xyz="0.019 0.040232 -0.1105" rpy="0 0 0"/>
+    <origin xyz="0 0 0" rpy="0 0 ${pi/2}"/>
     <geometry>
       <mesh filename="package://pckg/meshes/tilt_link_1.stl" scale="0.001 0.001 0.001"/>
     </geometry>
     <material name="silver"/>
   </visual>
   <collision>
-    <origin xyz="0.019 0.040232 -0.1105" rpy="0 0 0"/>
+    <origin xyz="0 0 0" rpy="0 0 ${pi/2}"/>
     <geometry>
       <mesh filename="package://pckg/meshes/tilt_link_1.stl" scale="0.001 0.001 0.001"/>
     </geometry>
@@ -118,14 +118,20 @@
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
+  
+
 <joint name="tilt" type="revolute">
-  <origin xyz="-0.019 0.0 0.0415" rpy="0 0 0"/>
-  <parent link="pan_link_1"/>
-  <child link="tilt_link_1"/>
-  <axis xyz="1.0 -7e-05 -4e-06" xacro:if="${is_real}"/>
-  <axis xyz="-1.0 -7e-05 -4e-06" xacro:if="${not is_real}"/>
-  <limit upper="+1.570796" lower="-1.570796" effort="100" velocity="100"/>
-</joint>
+    <axis xyz="1 0 0"  rpy="0 0 0"/>
+    <limit effort="3" lower="${radians(-90)}" upper="${radians(90)}" velocity="${pi}"/>
+    <origin rpy="0 0 0" xyz="0 0 0.03865"/>
+    <parent link="pan_link_1"/>
+    <child link="tilt_link_1"/>
+  </joint>
+  
+  
+  
+  
+  
 <transmission name="trans_tilt">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="tilt">
@@ -136,14 +142,14 @@
     </actuator>
   </transmission>
 <joint name="oakd_frame" type="fixed">
-  <origin xyz="0.018966 0.002525 0.052727" rpy="0 0 0"/>
+  <origin xyz="0 0 0.06" rpy="0 0 0"/>
   <parent link="tilt_link_1"/>
   <child link="oakd_1"/>
 </joint>
 
 <!-- camera depth joints and links -->
 	<joint name="${name}_color_joint" type="fixed">
-		<origin xyz="0 -0.0370 0.018" rpy="0 0 ${-pi/2}"/>
+		<origin xyz="0 0 0" rpy="0 0 ${-pi/2}"/>
 		<parent link="oakd_1"/>
 		<child link="${name}_color_frame" />
 	</joint>
