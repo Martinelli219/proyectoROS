@@ -1,0 +1,37 @@
+ 
+ <launch>
+
+
+  <arg name="use_rviz"                 default="true"/>
+  
+
+  
+
+  <include file="$(find pckg)/launch/xsturret_gazebo.launch" >
+    <arg name="robot_model"                       value="wxxms"/>
+    <arg name="use_rviz"                 default="$(arg use_rviz)"/>
+    <arg name="paused"                            default="false"/>
+ </include>
+
+    <node
+        name="pan_tilt"
+        pkg="pckg"
+        type="pan_tilt"
+        respawn="false"
+        output="screen"
+    />
+
+
+    <node
+        name="tracker"
+        pkg="pckg"
+        type="coord_tracker"
+        respawn="false"
+        output="screen"
+    />
+    
+
+    
+</launch>
+
+

@@ -1,0 +1,313 @@
+<?xml version="1.0" ?>
+<robot name="oakd" xmlns:xacro="http://www.ros.org/wiki/xacro">
+<xacro:property name="name" value="oakd"/>
+<xacro:include filename="$(find pckg)/urdf/materials.xacro" />
+<xacro:include filename="$(find pckg)/urdf/oakd.gazebo" />
+
+    <xacro:property name="flag_color" value="1"/>
+    <xacro:property name="flag_depth" value="0"/>
+<!-- The following values are approximate, and the camera node
+	publishing TF values with actual calibrated camera extrinsic values -->
+	<xacro:property name="oakd_cam_left_offset" value="0.0375"/>
+	<xacro:property name="oakd_cam_right_offset" value="-0.0375"/>
+    <xacro:property name="real" value="$(arg is_real)" />
+<xacro:if value="$(arg use_world_frame)">
+    <link name="world"/>
+    <joint name="fixed" type="fixed">
+      <parent link="world"/>
+      <child link="base_link"/>
+    </joint>
+</xacro:if>
+    
+<link name="base_link">
+  <inertial>
+    <origin xyz="1.2967337914845635e-06 -0.008768228394477627 0.026298757012131167" rpy="0 0 0"/>
+    <mass value="7.7362469992182925"/>
+    <inertia ixx="0.027949" iyy="0.009293" izz="0.031439" ixy="-0.0" iyz="0.002031" ixz="-0.0"/>
+  </inertial>
+  <visual>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="pan_link_1">
+  <inertial>
+    <origin xyz="-3.6089380201984316e-05 5.434018748862179e-09 0.018907926379387457" rpy="0 0 0"/>
+    <mass value="0.6259172748415966"/>
+    <inertia ixx="0.000334" iyy="0.000349" izz="0.00035" ixy="0.0" iyz="-0.0" ixz="1e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.0 0.040232 -0.069" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/pan_link_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.0 0.040232 -0.069" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/pan_link_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="tilt_link_1">
+  <inertial>
+    <origin xyz="0.019020433357334488 0.0003869267483030542 0.03746738590146777" rpy="0 0 0"/>
+    <mass value="0.13175271562285779"/>
+    <inertia ixx="2.8e-05" iyy="4.5e-05" izz="2.3e-05" ixy="-0.0" iyz="-0.0" ixz="-0.0"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.019 0.040232 -0.1105" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/tilt_link_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.019 0.040232 -0.1105" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/tilt_link_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="oakd_1">
+  <inertial>
+    <origin xyz="0.0005700773161645382 -0.022594006446933754 0.007811882915054108" rpy="0 0 0"/>
+    <mass value="0.3193880841082248"/>
+    <inertia ixx="9.8e-05" iyy="0.000275" izz="0.000232" ixy="1e-06" iyz="5e-06" ixz="-1e-06"/>
+  </inertial>
+  <visual>
+    <origin xyz="3.4e-05 0.037707 -0.163227" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/oakd_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="3.4e-05 0.037707 -0.163227" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://pckg/meshes/oakd_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<joint name="pan" type="continuous">
+  <origin xyz="0.0 -0.040232 0.069" rpy="0 0 0"/>
+  <parent link="base_link"/>
+  <child link="pan_link_1"/>
+  <axis xyz="0.0 0.0 1.0"/>
+</joint>
+<transmission name="trans_pan">
+    <type>transmission_interface/SimpleTransmission</type>
+    <joint name="pan">
+      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+    </joint>
+    <actuator name="pan_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+  </transmission>
+<joint name="tilt" type="revolute">
+  <origin xyz="-0.019 0.0 0.0415" rpy="0 0 0"/>
+  <parent link="pan_link_1"/>
+  <child link="tilt_link_1"/>
+  <axis xyz="1.0 -7e-05 -4e-06" xacro:if="${is_real}"/>
+  <axis xyz="-1.0 -7e-05 -4e-06" xacro:if="${not is_real}"/>
+  <limit upper="+1.570796" lower="-1.570796" effort="100" velocity="100"/>
+</joint>
+<transmission name="trans_tilt">
+    <type>transmission_interface/SimpleTransmission</type>
+    <joint name="tilt">
+      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
+    </joint>
+    <actuator name="tilt_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+  </transmission>
+<joint name="oakd_frame" type="fixed">
+  <origin xyz="0.018966 0.002525 0.052727" rpy="0 0 0"/>
+  <parent link="tilt_link_1"/>
+  <child link="oakd_1"/>
+</joint>
+
+<!-- camera depth joints and links -->
+	<joint name="${name}_color_joint" type="fixed">
+		<origin xyz="0 -0.0370 0.018" rpy="0 0 ${-pi/2}"/>
+		<parent link="oakd_1"/>
+		<child link="${name}_color_frame" />
+	</joint>
+    <link name="${name}_color_frame"/>
+
+	<joint name="${name}_color_optical_joint" type="fixed">
+		<origin xyz="0 0 0" rpy="${-pi/2} 0 ${-pi/2}" />
+		<parent link="${name}_color_frame" />
+		<child link="${name}_color_optical_frame" />
+	</joint>
+	<link name="${name}_color_optical_frame"/>
+
+	<!-- camera left IR joints and links -->
+	<joint name="${name}_left_joint" type="fixed">
+		<origin xyz="0 ${oakd_cam_left_offset} 0" rpy="0 0 0" />
+		<parent link="${name}_color_frame" />
+		<child link="${name}_left_frame" />
+	</joint>
+	<link name="${name}_left_frame"/>
+
+	<joint name="${name}_left_optical_joint" type="fixed">
+		<origin xyz="0 0 0" rpy="${-pi/2} 0 ${-pi/2}" />
+		<parent link="${name}_left_frame" />
+		<child link="${name}_left_optical_frame" />
+	</joint>
+	<link name="${name}_left_optical_frame"/>
+
+	<!-- camera right IR joints and links -->
+	<joint name="${name}_right_joint" type="fixed">
+		<origin xyz="0 ${oakd_cam_right_offset} 0" rpy="0 0 0" />
+		<parent link="${name}_color_frame" />
+		<child link="${name}_right_frame" />
+	</joint>
+	<link name="${name}_right_frame"/>
+
+	<joint name="${name}_right_optical_joint" type="fixed">
+		<origin xyz="0 0 0" rpy="${-pi/2} 0 ${-pi/2}" />
+		<parent link="${name}_right_frame" />
+		<child link="${name}_right_optical_frame" />
+	</joint>
+	<link name="${name}_right_optical_frame"/>
+
+	<gazebo reference="${name}_color_frame">
+	<xacro:if value="${flag_color}" >
+		<sensor name="${name}_rgb_sensor" type="camera">
+			<pose frame="${name}_color_optical_frame">0 0 0 0 0 0</pose>
+			<camera name="${name}_color">
+				<horizontal_fov>1.211258501</horizontal_fov><!--69.4 deg = 1.211258501 rad -->
+				<aspect_ratio>1.777777778</aspect_ratio><!-- 16:9-->
+				<image>
+					<width>1920</width>
+					<height>1080</height>
+					<format>RGB_INT8</format>
+				</image>
+				<clip>
+					<near>0.1</near>
+					<far>100</far>
+				</clip>
+				<noise>
+					<type>gaussian</type>
+					<mean>0.0</mean>
+					<stddev>0.007</stddev>
+				</noise>
+			</camera>
+			<always_on>1</always_on>
+			<update_rate>120</update_rate>
+			<visualize>1</visualize>
+			<plugin name="${name}_color_controller" filename="libgazebo_ros_camera.so">
+				<alwaysOn>true</alwaysOn>
+				<updateRate>0.0</updateRate>
+				<cameraName>${name}/color/</cameraName>
+				<imageTopicName>image_raw</imageTopicName>
+				<cameraInfoTopicName>camera_info</cameraInfoTopicName>
+				<frameName>${name}_color_optical_frame</frameName>
+                                <!--<hackBaseline>0.07</hackBaseline>-->
+                <hackBaseline>0.0</hackBaseline>
+				<distortionK1>0.0</distortionK1>
+				<distortionK2>0.0</distortionK2>
+				<distortionK3>0.0</distortionK3>
+				<distortionT1>0.0</distortionT1>
+				<distortionT2>0.0</distortionT2>
+			</plugin>
+		</sensor>
+	</xacro:if>
+
+	<xacro:if value="${flag_depth}" >
+		<sensor name="${name}_left_sensor" type="camera">
+			<pose frame="${name}_left_optical_frame">0 0 0 0 0 0</pose>
+			<camera name="${name}_left">
+				<horizontal_fov>1.211258501</horizontal_fov><!--69.4 deg = 1.211258501 rad -->
+				<aspect_ratio>1.777777778</aspect_ratio><!-- 16:9-->
+				<image>
+					<width>1920</width>
+					<height>1080</height>
+					<format>L_INT8</format>
+				</image>
+				<clip>
+					<near>0.1</near>
+					<far>100</far>
+				</clip>
+				<noise>
+					<type>gaussian</type>
+					<mean>0.0</mean>
+					<stddev>0.05</stddev>
+				</noise>
+			</camera>
+			<always_on>1</always_on>
+			<update_rate>120</update_rate>
+			<visualize>0</visualize>
+			<plugin name="${name}_left_controller" filename="libgazebo_ros_camera.so">
+				<alwaysOn>true</alwaysOn>
+				<updateRate>0.0</updateRate>
+				<cameraName>${name}/left/</cameraName>
+				<imageTopicName>image_raw</imageTopicName>
+				<cameraInfoTopicName>camera_info</cameraInfoTopicName>
+				<frameName>${name}_left_optical_frame</frameName>
+                                <!--<hackBaseline>0.07</hackBaseline>-->
+                                <hackBaseline>0.0</hackBaseline>
+				<distortionK1>0.0</distortionK1>
+				<distortionK2>0.0</distortionK2>
+				<distortionK3>0.0</distortionK3>
+				<distortionT1>0.0</distortionT1>
+				<distortionT2>0.0</distortionT2>
+			</plugin>
+		</sensor>
+		<sensor name="${name}_right_sensor" type="camera">
+			<pose frame="${name}_right_optical_frame">0 0 0 0 0 0</pose>
+			<camera name="${name}_right">
+				<horizontal_fov>1.211258501</horizontal_fov><!--69.4 deg = 1.211258501 rad -->
+				<aspect_ratio>1.777777778</aspect_ratio><!-- 16:9-->
+				<image>
+					<width>1920</width>
+					<height>1080</height>
+					<format>L_INT8</format>
+				</image>
+				<clip>
+					<near>0.1</near>
+					<far>100</far>
+				</clip>
+				<noise>
+					<type>gaussian</type>
+					<mean>0.0</mean>
+					<stddev>0.05</stddev>
+				</noise>
+			</camera>
+			<always_on>1</always_on>
+			<update_rate>120</update_rate>
+			<visualize>0</visualize>
+			<plugin name="${name}_right_controller" filename="libgazebo_ros_camera.so">
+				<alwaysOn>true</alwaysOn>
+				<updateRate>0.0</updateRate>
+				<cameraName>${name}/right/</cameraName>
+				<imageTopicName>image_raw</imageTopicName>
+				<cameraInfoTopicName>camera_info</cameraInfoTopicName>
+				<frameName>${name}_right_optical_frame</frameName>
+                                <!--<hackBaseline>0.07</hackBaseline>-->
+                                <hackBaseline>0.0</hackBaseline>
+				<distortionK1>0.0</distortionK1>
+				<distortionK2>0.0</distortionK2>
+				<distortionK3>0.0</distortionK3>
+				<distortionT1>0.0</distortionT1>
+				<distortionT2>0.0</distortionT2>
+			</plugin>
+		</sensor>
+	</xacro:if>
+	</gazebo>
+</robot>
