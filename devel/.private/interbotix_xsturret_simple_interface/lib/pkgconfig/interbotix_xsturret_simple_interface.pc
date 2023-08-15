@@ -1,0 +1,8 @@
+prefix=/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_xsturret_simple_interface
+
+Name: interbotix_xsturret_simple_interface
+Description: Description of interbotix_xsturret_simple_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: interbotix_xs_msgs interbotix_xsturret_control joy roscpp rospy sensor_msgs std_msgs std_srvs

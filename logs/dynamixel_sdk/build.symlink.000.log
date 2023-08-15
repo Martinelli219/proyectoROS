@@ -1,0 +1,15 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libdynamixel_sdk.so
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/cmake.lock
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/robotis_def.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/protocol1_packet_handler.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/port_handler.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/group_sync_write.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/group_bulk_write.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/group_bulk_read.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/group_sync_read.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/protocol2_packet_handler.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/dynamixel_sdk/packet_handler.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/python3/dist-packages/dynamixel_sdk/__init__.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake

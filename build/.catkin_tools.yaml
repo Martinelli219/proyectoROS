@@ -1,0 +1,6 @@
+devel_space: /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel
+install: false
+install_space: /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/install
+profile: default
+source_space: /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src
+workspace: /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws

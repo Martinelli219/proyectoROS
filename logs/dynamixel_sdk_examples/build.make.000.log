@@ -1,0 +1,103 @@
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_SyncGetPosition[0m
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_SyncSetPosition[0m
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_BulkSetItem[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_BulkGetItem[0m
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_GetPosition[0m
+[35m[1mScanning dependencies of target _dynamixel_sdk_examples_generate_messages_check_deps_SetPosition[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_BulkSetItem
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SyncGetPosition
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SyncSetPosition
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_BulkGetItem
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_GetPosition
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SetPosition
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages_lisp[0m
+[ 14%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/SyncSetPosition[0m
+[ 14%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/BulkSetItem[0m
+[ 19%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/SetPosition[0m
+[ 17%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/GetPosition[0m
+[ 24%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 29%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 34%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/GetPosition.srv[0m
+[ 34%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/GetPosition.srv[0m
+[ 39%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 43%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 48%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 48%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/SyncGetPosition[0m
+[ 53%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/BulkGetItem[0m
+[ 53%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/GetPosition.srv[0m
+[ 56%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 58%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 63%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 65%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/GetPosition.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 73%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 75%] [34m[1mGenerating EusLisp manifest code for dynamixel_sdk_examples[0m
+[ 75%] Built target dynamixel_sdk_examples_generate_messages_lisp
+[ 75%] Built target dynamixel_sdk_examples_generate_messages_nodejs
+[ 80%] [34m[1mGenerating Python msg __init__.py for dynamixel_sdk_examples[0m
+[ 80%] [34m[1mGenerating Python srv __init__.py for dynamixel_sdk_examples[0m
+[ 80%] Built target dynamixel_sdk_examples_generate_messages_cpp
+[ 80%] Built target dynamixel_sdk_examples_generate_messages_py
+[ 80%] Built target dynamixel_sdk_examples_generate_messages_eus
+[35m[1mScanning dependencies of target indirect_address_node[0m
+[35m[1mScanning dependencies of target bulk_read_write_node[0m
+[35m[1mScanning dependencies of target sync_read_write_node[0m
+[35m[1mScanning dependencies of target read_write_node[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/indirect_address_node.dir/src/indirect_address_node.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/read_write_node.dir/src/read_write_node.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/bulk_read_write_node.dir/src/bulk_read_write_node.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/sync_read_write_node.dir/src/sync_read_write_node.cpp.o[0m
+[35m[1mScanning dependencies of target dynamixel_sdk_examples_generate_messages[0m
+[ 90%] Built target dynamixel_sdk_examples_generate_messages
+[ 92%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/bulk_read_write_node[0m
+[ 95%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node[0m
+[ 97%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/sync_read_write_node[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/indirect_address_node[0m
+[100%] Built target bulk_read_write_node
+[100%] Built target read_write_node
+[100%] Built target sync_read_write_node
+[100%] Built target indirect_address_node

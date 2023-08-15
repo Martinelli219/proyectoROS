@@ -1,0 +1,4 @@
+[31m[1mCMake Error[0m at /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/pckg/CMakeLists.txt:187:
+  Parse error.  Function missing ending ")".  End of file reached.
+
+

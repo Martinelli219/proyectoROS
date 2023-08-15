@@ -1,0 +1,2 @@
+interbotix_ros_core/interbotix_ros_xseries/interbotix_ros_xseries
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_ros_xseries/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock

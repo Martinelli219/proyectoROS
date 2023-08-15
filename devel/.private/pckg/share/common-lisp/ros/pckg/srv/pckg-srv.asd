@@ -1,0 +1,21 @@
+
+(cl:in-package :asdf)
+
+(defsystem "pckg-srv"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "move_pos_group" :depends-on ("_package_move_pos_group"))
+    (:file "_package_move_pos_group" :depends-on ("_package"))
+    (:file "move_pos_simu" :depends-on ("_package_move_pos_simu"))
+    (:file "_package_move_pos_simu" :depends-on ("_package"))
+    (:file "move_pos_simu_rand" :depends-on ("_package_move_pos_simu_rand"))
+    (:file "_package_move_pos_simu_rand" :depends-on ("_package"))
+    (:file "move_pos_single" :depends-on ("_package_move_pos_single"))
+    (:file "_package_move_pos_single" :depends-on ("_package"))
+    (:file "move_pos_traj" :depends-on ("_package_move_pos_traj"))
+    (:file "_package_move_pos_traj" :depends-on ("_package"))
+    (:file "track_coord" :depends-on ("_package_track_coord"))
+    (:file "_package_track_coord" :depends-on ("_package"))
+    (:file "track_frame" :depends-on ("_package_track_frame"))
+    (:file "_package_track_frame" :depends-on ("_package"))
+  ))

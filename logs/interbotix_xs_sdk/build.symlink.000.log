@@ -1,0 +1,7 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libinterbotix_xs_sdk.so
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/interbotix_xs_sdk.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/interbotix_xs_sdk/cmake.lock
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/interbotix_xs_sdk/xs_sdk
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/interbotix_xs_sdk/xs_sdk_sim
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake

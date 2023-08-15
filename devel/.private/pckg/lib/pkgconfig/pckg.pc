@@ -1,0 +1,8 @@
+prefix=/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/pckg
+
+Name: pckg
+Description: Description of pckg
+Version: 0.0.0
+Cflags: -I/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/pckg/include
+Libs: -L${prefix}/lib 
+Requires: interbotix_xs_msgs roscpp rospy std_msgs std_srvs message_runtime trajectory_msgs tf2 visualization_msgs sensor_msgs

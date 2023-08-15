@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_xsturret_descriptions/share/interbotix_xsturret_descriptions/cmake/interbotix_xsturret_descriptionsConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake/interbotix_xs_msgs-msg-extras.cmake
