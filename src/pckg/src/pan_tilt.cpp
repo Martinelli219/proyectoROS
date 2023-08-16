@@ -369,8 +369,8 @@ int main (int argc, char** argv){
     //loop_rate.sleep();
 
     while(ros::ok()){
-        robot_simu.move_auto_pan();
-        robot_simu.move_auto_tilt();
+        //robot_simu.move_auto_pan();
+        //robot_simu.move_auto_tilt();
         //robot_real.move_auto_real_robot();
         ros::spinOnce();
         loop_rate.sleep();
