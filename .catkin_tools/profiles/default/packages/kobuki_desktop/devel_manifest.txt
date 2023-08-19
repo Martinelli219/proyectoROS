@@ -1,0 +1,2 @@
+Turtlebot_on_noetic/kobuki_desktop/kobuki_desktop
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_desktop/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock

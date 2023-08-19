@@ -1,0 +1,10 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libkobuki.so
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_driver.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_sigslots
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_simple_loop
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/version_info
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/simple_keyop
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/kobuki_velocity_commands
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_driver/demo_kobuki_initialisation
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_driver/cmake/kobuki_driverConfig.cmake

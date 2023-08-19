@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/depthimage_to_laserscan/lib/python3/dist-packages/depthimage_to_laserscan/__init__.py

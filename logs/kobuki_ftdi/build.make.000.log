@@ -1,0 +1,40 @@
+[35m[1mScanning dependencies of target ftdi_read_eeprom[0m
+[35m[1mScanning dependencies of target ftdi_scan[0m
+[35m[1mScanning dependencies of target unflasher[0m
+[35m[1mScanning dependencies of target ftdi_kobuki[0m
+[35m[1mScanning dependencies of target flasher[0m
+[35m[1mScanning dependencies of target reset_device[0m
+[35m[1mScanning dependencies of target overwrite_serial_number[0m
+[35m[1mScanning dependencies of target find_devices[0m
+[35m[1mScanning dependencies of target get_serial_number[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/ftdi_scan.dir/ftdi_scan.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/flasher.dir/flasher.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/ftdi_read_eeprom.dir/ftdi_read_eeprom.cpp.o[0m
+[ 20%] [32mBuilding CXX object src/CMakeFiles/unflasher.dir/unflasher.cpp.o[0m
+[ 25%] [32mBuilding CXX object src/CMakeFiles/reset_device.dir/reset_device.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/CMakeFiles/find_devices.dir/find_devices.cpp.o[0m
+[ 35%] [32mBuilding CXX object src/CMakeFiles/get_serial_number.dir/get_serial_number.cpp.o[0m
+[ 40%] [32mBuilding CXX object src/CMakeFiles/ftdi_kobuki.dir/ftdi_kobuki.cpp.o[0m
+[ 45%] [32mBuilding CXX object src/CMakeFiles/overwrite_serial_number.dir/overwrite_serial_number.cpp.o[0m
+[35m[1mScanning dependencies of target ftdi_write_eeprom[0m
+[ 50%] [32mBuilding CXX object src/CMakeFiles/ftdi_write_eeprom.dir/ftdi_write_eeprom.cpp.o[0m
+[ 55%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/ftdi_scan[0m
+[ 55%] Built target ftdi_scan
+[ 60%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/reset_device[0m
+[ 65%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/find_devices[0m
+[ 65%] Built target reset_device
+[ 65%] Built target find_devices
+[ 70%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/flasher[0m
+[ 75%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/get_serial_number[0m
+[ 80%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/unflasher[0m
+[ 80%] Built target flasher
+[ 80%] Built target get_serial_number
+[ 80%] Built target unflasher
+[ 85%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/ftdi_kobuki[0m
+[ 90%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/ftdi_read_eeprom[0m
+[ 90%] Built target ftdi_kobuki
+[ 90%] Built target ftdi_read_eeprom
+[ 95%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/ftdi_write_eeprom[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_ftdi/lib/kobuki_ftdi/overwrite_serial_number[0m
+[100%] Built target ftdi_write_eeprom
+[100%] Built target overwrite_serial_number

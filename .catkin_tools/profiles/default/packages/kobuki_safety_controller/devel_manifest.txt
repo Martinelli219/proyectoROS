@@ -1,0 +1,6 @@
+Turtlebot_on_noetic/kobuki/kobuki_safety_controller
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_safety_controller/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_safety_controller/lib/libkobuki_safety_controller_nodelet.so /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libkobuki_safety_controller_nodelet.so
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_safety_controller/lib/pkgconfig/kobuki_safety_controller.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_safety_controller/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_safety_controller/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake

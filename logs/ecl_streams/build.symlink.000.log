@@ -1,0 +1,6 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libecl_streams.so
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_streams.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_streams/demo_log_streams
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_streams/demo_console_streams
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_streams/cmake/ecl_streamsConfig.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_streams/cmake/ecl_streamsConfig-version.cmake

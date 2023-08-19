@@ -1,0 +1,5 @@
+Turtlebot_on_noetic/ecl_core/ecl_concepts
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_concepts/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_concepts/lib/pkgconfig/ecl_concepts.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_concepts.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_concepts/share/ecl_concepts/cmake/ecl_conceptsConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_concepts/cmake/ecl_conceptsConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_concepts/share/ecl_concepts/cmake/ecl_conceptsConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_concepts/cmake/ecl_conceptsConfig-version.cmake

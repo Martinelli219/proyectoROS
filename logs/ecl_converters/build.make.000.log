@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target demo_float_converters[0m
+[ 50%] [32mBuilding CXX object src/examples/CMakeFiles/demo_float_converters.dir/float_converters.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_converters/lib/ecl_converters/demo_float_converters[0m
+[100%] Built target demo_float_converters

@@ -1,0 +1,7 @@
+Turtlebot_on_noetic/kobuki/kobuki_node
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/lib/libkobuki_ros.so /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libkobuki_ros.so
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/lib/libkobuki_nodelet.so /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libkobuki_nodelet.so
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/lib/pkgconfig/kobuki_node.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_node.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_node/share/kobuki_node/cmake/kobuki_nodeConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake

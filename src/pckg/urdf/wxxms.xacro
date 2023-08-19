@@ -3,6 +3,8 @@
 <xacro:property name="name" value="oakd"/>
 <xacro:include filename="$(find pckg)/urdf/materials.xacro" />
 <xacro:include filename="$(find pckg)/urdf/oakd.gazebo" />
+<xacro:include filename="$(find jackal_description)/urdf/jackal.urdf.xacro">
+</xacro:include>
 
     <xacro:property name="flag_color" value="1"/>
     <xacro:property name="flag_depth" value="0"/>
@@ -12,14 +14,14 @@
 	<xacro:property name="oakd_cam_right_offset" value="-0.0375"/>
     <xacro:property name="real" value="$(arg is_real)" />
 <xacro:if value="$(arg use_world_frame)">
-    <link name="world"/>
+    <!--<link name="world"/>-->
     <joint name="fixed" type="fixed">
-      <parent link="world"/>
-      <child link="base_link"/>
+      <parent link="mid_mount"/>
+      <child link="base_linkT"/>
     </joint>
 </xacro:if>
     
-<link name="base_link">
+<link name="base_linkT">
   <inertial>
     <origin xyz="1.2967337914845635e-06 -0.008768228394477627 0.026298757012131167" rpy="0 0 0"/>
     <mass value="7.7362469992182925"/>
@@ -105,7 +107,7 @@
 
 <joint name="pan" type="continuous">
   <origin xyz="0.0 -0.040232 0.069" rpy="0 0 0"/>
-  <parent link="base_link"/>
+  <parent link="base_linkT"/>
   <child link="pan_link_1"/>
   <axis xyz="0.0 0.0 1.0"/>
 </joint>

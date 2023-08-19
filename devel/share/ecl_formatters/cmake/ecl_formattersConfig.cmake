@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_formatters/share/ecl_formatters/cmake/ecl_formattersConfig.cmake

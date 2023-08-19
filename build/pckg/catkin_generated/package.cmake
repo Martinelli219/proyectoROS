@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "pckg")
 set(pckg_VERSION "0.0.0")
-set(pckg_MAINTAINER "quentin.simon <quentin.simon@ensea.fr>")
+set(pckg_MAINTAINER "Martin.aguilar <marsagui@espol.edu.ec>")
 set(pckg_PACKAGE_FORMAT "2")
 set(pckg_BUILD_DEPENDS "message_generation" "interbotix_xs_msgs" "roscpp" "rospy" "std_msgs" "trajectory_msgs" "sensor_msgs" "std_srvs" "tf2" "visualization_msgs" "sensor_msgs" "gazebo_msgs")
 set(pckg_BUILD_EXPORT_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs" "interbotix_xs_msgs" "trajectory_msgs" "sensor_msgs" "std_srvs" "tf2" "visualization_msgs" "gazebo_msgs")

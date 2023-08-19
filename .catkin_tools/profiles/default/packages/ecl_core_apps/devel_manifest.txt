@@ -1,0 +1,22 @@
+Turtlebot_on_noetic/ecl_core/ecl_core_apps
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_eigen3_decompositions /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_eigen3_decompositions
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/ecl_serial /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/ecl_serial
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_eigen3_inverse /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_eigen3_inverse
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_eigen3_transforms /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_eigen3_transforms
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/ecl_hex /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/ecl_hex
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_exceptions /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_exceptions
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_containers /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_containers
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_files /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_files
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_string_conversions /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_string_conversions
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_flops /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_flops
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_snooze /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_snooze
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/ecl_socket_server /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/ecl_socket_server
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/ecl_process_statistics /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/ecl_process_statistics
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/ecl_socket_client /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/ecl_socket_client
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/ecl_core_apps/bench_streams /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_core_apps/bench_streams
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/lib/pkgconfig/ecl_core_apps.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_core_apps.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/share/ecl_core_apps/cmake/ecl_core_appsConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_core_apps/cmake/ecl_core_appsConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/share/ecl_core_apps/cmake/ecl_core_appsConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_core_apps/cmake/ecl_core_appsConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/bin/ecl_yaw2quaternion /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/ecl_yaw2quaternion
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_core_apps/bin/ecl_quaternion2yaw /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/ecl_quaternion2yaw

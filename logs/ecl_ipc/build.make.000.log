@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target ecl_ipc[0m
+[ 33%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_ipc.dir/semaphore_pos.cpp.o[0m
+[ 66%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_ipc.dir/shared_memory_pos.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_ipc/lib/libecl_ipc.so[0m
+[100%] Built target ecl_ipc

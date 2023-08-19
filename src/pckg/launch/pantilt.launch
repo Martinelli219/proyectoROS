@@ -5,7 +5,22 @@
   <arg name="use_rviz"                 default="true"/>
   
 
+     <!-- Configuration of Jackal which you would like to simulate.
+       See jackal_description for details. -->
+  <arg name="config" default="front_laser" />
+
+  <!-- Optionally enable teleop for the simulation -->
+  <arg name="joystick" default="true" />
   
+    <!-- Spawn Jackal -->
+  <include file="$(find jackal_gazebo)/launch/spawn_jackal.launch">
+    <arg name="x" value="0" />
+    <arg name="y" value="0" />
+    <arg name="z" value="1.0" />
+    <arg name="yaw" value="0" />
+    <arg name="config" value="$(arg config)" />
+    <arg name="joystick" value="$(arg joystick)" />
+  </include>
 
   <include file="$(find pckg)/launch/xsturret_gazebo.launch" >
     <arg name="robot_model"                       value="wxxms"/>
@@ -13,6 +28,10 @@
     <arg name="paused"                            default="false"/>
  </include>
  
+ 
+ 
+ 
+
 
     <node
         name="pan_tilt"
@@ -30,13 +49,20 @@
         respawn="false"
         output="screen"
     />
+    
+<node name="simple_interface.py" pkg="pckg" type="simple_interface.py">
+  </node>
+    
+    <include file="$(find jackal_navigation)/launch/gmapping_demo.launch">
+
+  </include>
 
     
 	<node pkg="octomap_server" type="octomap_server_node" name="octomap_server" output="screen" launch-prefix="xterm -e">
 		<param name="resolution" value="0.05" />
 		
 		<!-- fixed map frame (set to 'map' if SLAM or localization running!) -->
-		<param name="frame_id" type="string" value="world" />
+		<param name="frame_id" type="string" value="map" />
 		
 		<!-- maximum range to integrate (speedup!) -->
 		<param name="sensor_model/max_range" value="5.0" />

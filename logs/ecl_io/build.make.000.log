@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target ecl_io[0m
+[ 30%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_io.dir/poll.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_io.dir/sockets.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_io.dir/socketpair.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_io/lib/libecl_io.so[0m
+[ 40%] Built target ecl_io
+[35m[1mScanning dependencies of target ecl_demo_poll[0m
+[35m[1mScanning dependencies of target ecl_demo_sockets[0m
+[35m[1mScanning dependencies of target ecl_demo_socketpair[0m
+[ 50%] [32mBuilding CXX object src/examples/CMakeFiles/ecl_demo_poll.dir/poll.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/examples/CMakeFiles/ecl_demo_sockets.dir/sockets.cpp.o[0m
+[ 70%] [32mBuilding CXX object src/examples/CMakeFiles/ecl_demo_socketpair.dir/socketpair.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_io/lib/ecl_io/ecl_demo_sockets[0m
+[ 90%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_io/lib/ecl_io/ecl_demo_poll[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_io/lib/ecl_io/ecl_demo_socketpair[0m
+[100%] Built target ecl_demo_poll
+[100%] Built target ecl_demo_socketpair
+[100%] Built target ecl_demo_sockets

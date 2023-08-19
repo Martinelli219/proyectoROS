@@ -1,0 +1,4 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_sigslots_lite.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_sigslots_lite/demo_sigslots_lite
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_sigslots_lite/cmake/ecl_sigslots_liteConfig.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_sigslots_lite/cmake/ecl_sigslots_liteConfig-version.cmake

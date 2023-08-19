@@ -1,0 +1,6 @@
+Turtlebot_on_noetic/kobuki/kobuki_controller_tutorial
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_controller_tutorial/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_controller_tutorial/lib/libbump_blink_controller_nodelet.so /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libbump_blink_controller_nodelet.so
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_controller_tutorial/lib/pkgconfig/kobuki_controller_tutorial.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_controller_tutorial.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_controller_tutorial/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_controller_tutorial/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_controller_tutorial/cmake/kobuki_controller_tutorialConfig-version.cmake

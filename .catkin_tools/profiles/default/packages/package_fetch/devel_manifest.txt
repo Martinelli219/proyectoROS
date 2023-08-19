@@ -1,0 +1,5 @@
+package_fetch
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/package_fetch/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/package_fetch/lib/pkgconfig/package_fetch.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/package_fetch.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/package_fetch/share/package_fetch/cmake/package_fetchConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/package_fetch/cmake/package_fetchConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/package_fetch/share/package_fetch/cmake/package_fetchConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/package_fetch/cmake/package_fetchConfig-version.cmake

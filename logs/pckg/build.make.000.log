@@ -1,210 +1,201 @@
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_track_frame[0m
+[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_traj[0m
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_track_coord[0m
+[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_track_frame[0m
 [35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_simu[0m
 [35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_traj[0m
-[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_simu_rand[0m
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_track_coord[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
-[  0%] Built target sensor_msgs_generate_messages_py
-[  0%] Built target gazebo_msgs_generate_messages_py
 [  0%] Built target visualization_msgs_generate_messages_cpp
 [  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_py
 [  0%] Built target visualization_msgs_generate_messages_py
-[  0%] Built target std_msgs_generate_messages_py
-[  0%] Built target std_srvs_generate_messages_py
-[  0%] Built target interbotix_xs_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target geometry_msgs_generate_messages_py
-[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_simu_rand[0m
+[  0%] Built target _pckg_generate_messages_check_deps_move_pos_traj
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target _pckg_generate_messages_check_deps_track_coord
+[  0%] Built target _pckg_generate_messages_check_deps_track_frame
+[  0%] Built target interbotix_xs_msgs_generate_messages_py
 [35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_single[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [35m[1mScanning dependencies of target _pckg_generate_messages_check_deps_move_pos_group[0m
+[  0%] Built target std_srvs_generate_messages_py
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[  0%] Built target _pckg_generate_messages_check_deps_move_pos_simu
+[  0%] Built target sensor_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
 [  0%] Built target gazebo_msgs_generate_messages_eus
-[  0%] Built target sensor_msgs_generate_messages_eus
-[  0%] Built target visualization_msgs_generate_messages_eus
 [  0%] Built target geometry_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_eus[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[  0%] Built target _pckg_generate_messages_check_deps_move_pos_simu
-[  0%] Built target _pckg_generate_messages_check_deps_move_pos_simu_rand
-[  0%] Built target _pckg_generate_messages_check_deps_move_pos_traj
-[  0%] Built target _pckg_generate_messages_check_deps_track_coord
-[  0%] Built target _pckg_generate_messages_check_deps_track_frame
+[  0%] Built target visualization_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
-[  0%] Built target interbotix_xs_msgs_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target interbotix_xs_msgs_generate_messages_eus
+[  0%] Built target _pckg_generate_messages_check_deps_move_pos_simu_rand
 [  0%] Built target trajectory_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[  0%] Built target _pckg_generate_messages_check_deps_move_pos_single
-[  0%] Built target _pckg_generate_messages_check_deps_move_pos_group
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
 [  0%] Built target std_srvs_generate_messages_eus
-[  0%] Built target std_msgs_generate_messages_nodejs
-[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target _pckg_generate_messages_check_deps_move_pos_group
+[  0%] Built target _pckg_generate_messages_check_deps_move_pos_single
 [  0%] Built target gazebo_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
-[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
-[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target interbotix_xs_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
-[  0%] Built target trajectory_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
-[  0%] Built target interbotix_xs_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
-[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
-[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
-[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  0%] Built target actionlib_generate_messages_lisp
-[  0%] Built target tf2_msgs_generate_messages_eus
-[  0%] Built target visualization_msgs_generate_messages_lisp
-[  0%] Built target gazebo_msgs_generate_messages_cpp
-[  0%] Built target gazebo_msgs_generate_messages_lisp
-[  0%] Built target geometry_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
 [  0%] Built target tf2_msgs_generate_messages_py
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
 [  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target actionlib_generate_messages_nodejs
-[  0%] Built target rosgraph_msgs_generate_messages_py
-[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_lisp
 [  0%] Built target interbotix_xs_msgs_generate_messages_cpp
 [  0%] Built target roscpp_generate_messages_nodejs
-[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target interbotix_xs_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_lisp
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
 [  0%] Built target interbotix_xs_msgs_generate_messages_lisp
-[  0%] Built target std_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
-[  0%] Built target std_srvs_generate_messages_lisp
 [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
-[  0%] Built target trajectory_msgs_generate_messages_cpp
-[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
 [  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_cpp
 [  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
-[  0%] Built target actionlib_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
-[  0%] Built target std_srvs_generate_messages_cpp
-[  0%] Built target actionlib_msgs_generate_messages_lisp
-[  0%] Built target actionlib_generate_messages_py
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
 [  0%] Built target roscpp_generate_messages_py
-[  0%] Built target rosgraph_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
-[35m[1mScanning dependencies of target pckg_generate_messages_py[0m
-[  0%] Built target actionlib_msgs_generate_messages_py
 [  0%] Built target actionlib_generate_messages_cpp
 [  0%] Built target tf2_msgs_generate_messages_nodejs
-[  0%] Built target tf2_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target pckg_generate_messages_nodejs[0m
 [  0%] Built target actionlib_msgs_generate_messages_cpp
 [  0%] Built target rosgraph_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target pckg_generate_messages_lisp[0m
 [  0%] Built target actionlib_generate_messages_eus
-[  2%] [34m[1mGenerating Python code from SRV pckg/move_pos_traj[0m
-[  4%] [34m[1mGenerating Python code from SRV pckg/move_pos_group[0m
-[  7%] [34m[1mGenerating Python code from SRV pckg/move_pos_single[0m
-[  9%] [34m[1mGenerating Python code from SRV pckg/move_pos_simu[0m
-[35m[1mScanning dependencies of target pckg_generate_messages_cpp[0m
-[ 12%] [34m[1mGenerating Python code from SRV pckg/move_pos_simu_rand[0m
-[ 14%] [34m[1mGenerating Python code from SRV pckg/track_frame[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target pckg_generate_messages_eus[0m
-[ 17%] [34m[1mGenerating Javascript code from pckg/move_pos_traj.srv[0m
-[ 19%] [34m[1mGenerating Lisp code from pckg/move_pos_single.srv[0m
-[ 21%] [34m[1mGenerating Lisp code from pckg/move_pos_traj.srv[0m
-[ 24%] [34m[1mGenerating C++ code from pckg/move_pos_traj.srv[0m
-[ 26%] [34m[1mGenerating EusLisp code from pckg/move_pos_single.srv[0m
-[ 29%] [34m[1mGenerating EusLisp code from pckg/move_pos_traj.srv[0m
-[ 31%] [34m[1mGenerating Javascript code from pckg/move_pos_single.srv[0m
-[ 34%] [34m[1mGenerating Lisp code from pckg/move_pos_group.srv[0m
-[ 36%] [34m[1mGenerating Javascript code from pckg/move_pos_group.srv[0m
-[ 39%] [34m[1mGenerating Lisp code from pckg/move_pos_simu.srv[0m
-[ 41%] [34m[1mGenerating Python code from SRV pckg/track_coord[0m
-[ 46%] [34m[1mGenerating Lisp code from pckg/move_pos_simu_rand.srv[0m
-[ 46%] [34m[1mGenerating Javascript code from pckg/move_pos_simu.srv[0m
-[ 48%] [34m[1mGenerating EusLisp code from pckg/move_pos_group.srv[0m
-[ 51%] [34m[1mGenerating EusLisp code from pckg/move_pos_simu.srv[0m
-[ 53%] [34m[1mGenerating Lisp code from pckg/track_frame.srv[0m
-[ 56%] [34m[1mGenerating C++ code from pckg/move_pos_single.srv[0m
-[ 58%] [34m[1mGenerating EusLisp code from pckg/move_pos_simu_rand.srv[0m
-[ 63%] [34m[1mGenerating EusLisp code from pckg/track_frame.srv[0m
-[ 63%] [34m[1mGenerating Lisp code from pckg/track_coord.srv[0m
-[ 68%] [34m[1mGenerating Javascript code from pckg/move_pos_simu_rand.srv[0m
-[ 68%] [34m[1mGenerating Javascript code from pckg/track_frame.srv[0m
-[ 70%] [34m[1mGenerating C++ code from pckg/move_pos_group.srv[0m
-[ 73%] [34m[1mGenerating EusLisp code from pckg/track_coord.srv[0m
-[ 75%] [34m[1mGenerating C++ code from pckg/move_pos_simu.srv[0m
-[ 75%] Built target pckg_generate_messages_lisp
-[ 78%] [34m[1mGenerating C++ code from pckg/move_pos_simu_rand.srv[0m
-[ 80%] [34m[1mGenerating Javascript code from pckg/track_coord.srv[0m
-[ 82%] [34m[1mGenerating C++ code from pckg/track_frame.srv[0m
-[ 85%] [34m[1mGenerating EusLisp manifest code for pckg[0m
-[ 87%] [34m[1mGenerating C++ code from pckg/track_coord.srv[0m
-[ 87%] Built target pckg_generate_messages_nodejs
+[35m[1mScanning dependencies of target pckg_generate_messages_py[0m
+[35m[1mScanning dependencies of target pckg_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target pckg_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target pckg_generate_messages_cpp[0m
+[  2%] [34m[1mGenerating EusLisp code from pckg/move_pos_group.srv[0m
+[  7%] [34m[1mGenerating Javascript code from pckg/move_pos_traj.srv[0m
+[  7%] [34m[1mGenerating EusLisp code from pckg/move_pos_simu.srv[0m
+[  9%] [34m[1mGenerating Python code from SRV pckg/move_pos_traj[0m
+[ 12%] [34m[1mGenerating EusLisp code from pckg/move_pos_traj.srv[0m
+[ 14%] [34m[1mGenerating EusLisp code from pckg/move_pos_single.srv[0m
+[ 17%] [34m[1mGenerating C++ code from pckg/move_pos_traj.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from pckg/move_pos_traj.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from pckg/move_pos_single.srv[0m
+[ 24%] [34m[1mGenerating Lisp code from pckg/move_pos_single.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from pckg/move_pos_group.srv[0m
+[ 29%] [34m[1mGenerating Javascript code from pckg/move_pos_simu.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from pckg/move_pos_group.srv[0m
+[ 34%] [34m[1mGenerating EusLisp code from pckg/move_pos_simu_rand.srv[0m
+[ 36%] [34m[1mGenerating EusLisp code from pckg/track_frame.srv[0m
+[ 39%] [34m[1mGenerating EusLisp code from pckg/track_coord.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from pckg/move_pos_simu_rand.srv[0m
+[ 43%] [34m[1mGenerating EusLisp manifest code for pckg[0m
+[ 46%] [34m[1mGenerating Lisp code from pckg/move_pos_simu.srv[0m
+[ 48%] [34m[1mGenerating Javascript code from pckg/track_frame.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from pckg/move_pos_simu_rand.srv[0m
+[ 53%] [34m[1mGenerating Javascript code from pckg/track_coord.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV pckg/move_pos_single[0m
+[ 58%] [34m[1mGenerating C++ code from pckg/move_pos_single.srv[0m
+[ 60%] [34m[1mGenerating C++ code from pckg/move_pos_group.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from pckg/track_frame.srv[0m
+[ 65%] [34m[1mGenerating C++ code from pckg/move_pos_simu.srv[0m
+[ 65%] Built target pckg_generate_messages_nodejs
+[ 68%] [34m[1mGenerating Lisp code from pckg/track_coord.srv[0m
+[ 70%] [34m[1mGenerating C++ code from pckg/move_pos_simu_rand.srv[0m
+[ 73%] [34m[1mGenerating C++ code from pckg/track_frame.srv[0m
+[ 73%] Built target pckg_generate_messages_lisp
+[ 75%] [34m[1mGenerating Python code from SRV pckg/move_pos_group[0m
+[ 78%] [34m[1mGenerating C++ code from pckg/track_coord.srv[0m
+[ 80%] [34m[1mGenerating Python code from SRV pckg/move_pos_simu[0m
+[ 82%] [34m[1mGenerating Python code from SRV pckg/move_pos_simu_rand[0m
+[ 85%] [34m[1mGenerating Python code from SRV pckg/track_frame[0m
+[ 87%] [34m[1mGenerating Python code from SRV pckg/track_coord[0m
+[ 87%] Built target pckg_generate_messages_cpp
+[ 87%] Built target pckg_generate_messages_eus
 [ 90%] [34m[1mGenerating Python srv __init__.py for pckg[0m
 [ 90%] Built target pckg_generate_messages_py
-[ 90%] Built target pckg_generate_messages_cpp
-[ 90%] Built target pckg_generate_messages_eus
-[35m[1mScanning dependencies of target pan_tilt[0m
 [35m[1mScanning dependencies of target coord_tracker[0m
+[35m[1mScanning dependencies of target pan_tilt[0m
 [35m[1mScanning dependencies of target pckg_generate_messages[0m
 [ 90%] Built target pckg_generate_messages
 [ 92%] [32mBuilding CXX object CMakeFiles/coord_tracker.dir/src/coord_tracker.cpp.o[0m
 [ 95%] [32mBuilding CXX object CMakeFiles/pan_tilt.dir/src/pan_tilt.cpp.o[0m
-[01m[K/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/pckg/src/coord_tracker.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
-[01m[K/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/pckg/src/coord_tracker.cpp:289:72:[m[K [01;31m[Kerror: [m[K‘[01m[Ktrk_faceCB[m[K’ was not declared in this scope; did you mean ‘[01m[Ktrk_frameCB[m[K’?
-  289 |     ros::ServiceServer serviceFace = nh.advertiseService("track_face", [01;31m[Ktrk_faceCB[m[K);
-      |                                                                        [01;31m[K^~~~~~~~~~[m[K
-      |                                                                        [32m[Ktrk_frameCB[m[K
-[01m[K/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/pckg/src/coord_tracker.cpp:319:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kface_tracker[m[K’ was not declared in this scope
-  319 |     [01;31m[Kface_tracker[m[K();
-      |     [01;31m[K^~~~~~~~~~~~[m[K
 [ 97%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/pckg/lib/pckg/pan_tilt[0m
 [ 97%] Built target pan_tilt
-make[2]: *** [CMakeFiles/coord_tracker.dir/build.make:63: CMakeFiles/coord_tracker.dir/src/coord_tracker.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:295: CMakeFiles/coord_tracker.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/pckg/lib/pckg/coord_tracker[0m
+[100%] Built target coord_tracker

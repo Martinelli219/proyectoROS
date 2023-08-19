@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_mobile_robot/share/ecl_mobile_robot/cmake/ecl_mobile_robotConfig.cmake

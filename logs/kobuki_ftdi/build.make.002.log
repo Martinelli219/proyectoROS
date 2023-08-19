@@ -1,0 +1,10 @@
+[ 10%] Built target unflasher
+[ 20%] Built target ftdi_scan
+[ 30%] Built target ftdi_kobuki
+[ 40%] Built target ftdi_read_eeprom
+[ 50%] Built target find_devices
+[ 60%] Built target get_serial_number
+[ 80%] Built target reset_device
+[ 80%] Built target flasher
+[ 90%] Built target overwrite_serial_number
+[100%] Built target ftdi_write_eeprom

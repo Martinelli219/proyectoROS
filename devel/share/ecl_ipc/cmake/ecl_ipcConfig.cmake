@@ -1,0 +1,1 @@
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_ipc/share/ecl_ipc/cmake/ecl_ipcConfig.cmake

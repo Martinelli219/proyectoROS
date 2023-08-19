@@ -1,0 +1,2 @@
+jackal_simulator/jackal_simulator
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/jackal_simulator/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock

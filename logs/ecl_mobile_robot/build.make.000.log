@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ecl_mobile_robot[0m
+[ 50%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_mobile_robot.dir/kinematics/differential_drive.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_mobile_robot/lib/libecl_mobile_robot.so[0m
+[100%] Built target ecl_mobile_robot

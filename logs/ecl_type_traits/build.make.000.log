@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target ecl_type_traits[0m
+[ 25%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_type_traits.dir/numeric_limits.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_type_traits/lib/libecl_type_traits.so[0m
+[ 50%] Built target ecl_type_traits
+[35m[1mScanning dependencies of target ecl_detect_sizes[0m
+[ 75%] [32mBuilding CXX object src/utils/CMakeFiles/ecl_detect_sizes.dir/detect_sizes.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_type_traits/bin/ecl_detect_sizes[0m
+[100%] Built target ecl_detect_sizes

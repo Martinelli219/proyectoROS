@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target ecl_formatters[0m
+[ 25%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_formatters.dir/strings.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_formatters/lib/libecl_formatters.so[0m
+[ 50%] Built target ecl_formatters
+[35m[1mScanning dependencies of target demo_formatters[0m
+[ 75%] [32mBuilding CXX object src/examples/CMakeFiles/demo_formatters.dir/formatters.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_formatters/lib/ecl_formatters/demo_formatters[0m
+[100%] Built target demo_formatters

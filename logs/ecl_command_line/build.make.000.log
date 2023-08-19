@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target demo_command_line[0m
+[ 50%] [32mBuilding CXX object src/examples/CMakeFiles/demo_command_line.dir/command_line.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_command_line/lib/ecl_command_line/demo_command_line[0m
+[100%] Built target demo_command_line

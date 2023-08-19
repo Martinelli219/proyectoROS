@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target ecl_threads[0m
+[  9%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/mutex_pos.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/mutex_w32.cpp.o[0m
+[ 27%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/priority_pos.cpp.o[0m
+[ 36%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/priority_win.cpp.o[0m
+[ 45%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/thread_pos.cpp.o[0m
+[ 54%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_threads.dir/thread_win.cpp.o[0m
+[ 63%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_threads/lib/libecl_threads.so[0m
+[ 63%] Built target ecl_threads
+[35m[1mScanning dependencies of target demo_thread[0m
+[35m[1mScanning dependencies of target demo_mutex[0m
+[ 72%] [32mBuilding CXX object src/examples/CMakeFiles/demo_thread.dir/thread.cpp.o[0m
+[ 81%] [32mBuilding CXX object src/examples/CMakeFiles/demo_mutex.dir/mutex.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_threads/lib/ecl_threads/demo_mutex[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_threads/lib/ecl_threads/demo_thread[0m
+[100%] Built target demo_mutex
+[100%] Built target demo_thread

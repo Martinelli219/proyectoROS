@@ -1,0 +1,6 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_qtestsuite.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/python3/dist-packages/kobuki_qtestsuite/__init__.py
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_qtestsuite/cmake/kobuki_qtestsuiteConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_qtestsuite/cmake/kobuki_qtestsuiteConfig.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/cmake.lock
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/kobuki_qtestsuite

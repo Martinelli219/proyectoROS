@@ -10,6 +10,13 @@
   <arg name="use_joint_pub_gui"                 default="false"/>
   <arg name="use_rviz"                          default="true"/>
   <arg name="load_gazebo_configs"               default="false"/>
+  
+  <arg name="env_runner" value="$(eval 'env_run' if not optenv('OS', 'unknown').lower().startswith('windows') else 'env_run.bat')" />
+  <!-- the following seems to work too when in devel space, but not in install_isolated -->
+  <!-- <arg name="env_runner" value="env_run" /> -->
+  <arg name="config" default="front_laser" />
+  
+  
   <arg name="rvizconfig"                        default="$(find interbotix_xsturret_descriptions)/rviz/xsturret_description.rviz" />
   <arg name="model"                             default="$(find pckg)/urdf/$(arg robot_model).xacro
                                                          robot_name:=$(arg robot_name)
@@ -17,8 +24,13 @@
                                                          use_world_frame:=$(arg use_world_frame)
                                                          external_urdf_loc:=$(arg external_urdf_loc)
                                                          load_gazebo_configs:=$(arg load_gazebo_configs)"/>
+                                                         
+                                                         
 
-  <param name="$(arg robot_name)/robot_description" command="$(find xacro)/xacro $(arg model)" />
+  <param name="$(arg robot_name)/robot_description" command="$(find jackal_description)/scripts/$(arg env_runner)
+                    $(find jackal_description)/urdf/configs/$(arg config)
+                    $(find xacro)/xacro $(arg model)
+                    --inorder"/>
 
   <node if="$(arg use_joint_pub)"
     name="joint_state_publisher"

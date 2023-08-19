@@ -6,7 +6,7 @@
   <arg name="use_world_frame"                   default="true"/>
   <arg name="external_urdf_loc"                 default=""/>
   <arg name="use_rviz"                          default="true"/>
-  <arg name="world_name"                        default="$(find interbotix_xsturret_gazebo)/worlds/xsturret_gazebo.world"/>
+  <arg name="world_name" default="$(find jackal_gazebo)/worlds/jackal_race.world" />
   <arg name="gui"                               default="true"/>
   <arg name="debug"                             default="false"/>
   <arg name="paused"                            default="true"/>

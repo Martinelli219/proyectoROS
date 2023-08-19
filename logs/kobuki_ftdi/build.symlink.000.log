@@ -1,0 +1,13 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_ftdi.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/reset_device
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/overwrite_serial_number
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/ftdi_scan
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/ftdi_kobuki
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/unflasher
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/ftdi_read_eeprom
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/flasher
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/find_devices
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/ftdi_write_eeprom
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/kobuki_ftdi/get_serial_number
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_ftdi/cmake/kobuki_ftdiConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_ftdi/cmake/kobuki_ftdiConfig.cmake

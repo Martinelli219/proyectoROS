@@ -35,7 +35,7 @@ class ROSInterface:
         rospy.loginfo("Sent Tilt Value: {:.2f}".format(tilt_value))
 
 def main():
-    rospy.init_node('ros_interface_node', anonymous=True)
+    rospy.init_node('simple_interface', anonymous=True)
     root = tk.Tk()
     interface = ROSInterface(root)
     root.mainloop()

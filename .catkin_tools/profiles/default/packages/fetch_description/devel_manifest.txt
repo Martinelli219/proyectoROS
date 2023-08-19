@@ -1,0 +1,5 @@
+fetch/fetch_ros/fetch_description
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/fetch_description/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/fetch_description/lib/pkgconfig/fetch_description.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/fetch_description.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/fetch_description/share/fetch_description/cmake/fetch_descriptionConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/fetch_description/cmake/fetch_descriptionConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/fetch_description/share/fetch_description/cmake/fetch_descriptionConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/fetch_description/cmake/fetch_descriptionConfig.cmake

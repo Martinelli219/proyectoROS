@@ -1,0 +1,319 @@
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_WaypointListService[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeFeedback[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_WaypointListService
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeResult[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_Column[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeFeedback
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeResult
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_Column
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigationControlStatus[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigationControlStatus
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigationControl[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigationControl
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToActionResult[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToActionResult
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_ColumnList[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeActionResult[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToActionFeedback[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_ColumnList
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeActionResult
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToActionFeedback
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToActionGoal[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_WallList[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_ARPair[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToActionGoal
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_WallList
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_ARPair
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToResult[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToFeedback[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToResult
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_ARPairList[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToFeedback
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_Wall[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_ARPairList
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_Table[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_TableList[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_Wall
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_Trajectory[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_MagicButton[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToGoal[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_Waypoint[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_Table
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_WaypointList[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_NavigateToAction[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_TableList
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_MagicButton
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_Trajectory
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_TrajectoryList[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorAction[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionGoal[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionResult[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToGoal
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_WaypointList
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_NavigateToAction
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionFeedback[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeGoal[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_TrajectoryList
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeAction[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeActionGoal[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_LocalizeActionFeedback[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorAction
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorFeedback[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionResult
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionGoal
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorGoal[0m
+[35m[1mScanning dependencies of target _yocs_msgs_generate_messages_check_deps_DockingInteractorResult[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorActionFeedback
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeGoal
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeActionFeedback
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeActionGoal
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorFeedback
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_LocalizeAction
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorGoal
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target _yocs_msgs_generate_messages_check_deps_DockingInteractorResult
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target yocs_msgs_gencfg[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] [34m[1mGenerating dynamic reconfigure files from dynamic_reconfigure/Joystick.cfg: /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/yocs_msgs/include/yocs_msgs/JoystickConfig.h /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/yocs_msgs/lib/python3/dist-packages/yocs_msgs/cfg/JoystickConfig.py[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages_lisp[0m
+[  0%] [34m[1mGenerating EusLisp code from yocs_msgs/ARPair.msg[0m
+[  1%] [34m[1mGenerating EusLisp code from yocs_msgs/ARPairList.msg[0m
+[  1%] [34m[1mGenerating EusLisp code from yocs_msgs/Wall.msg[0m
+[  1%] [34m[1mGenerating Javascript code from yocs_msgs/ARPair.msg[0m
+[  2%] [34m[1mGenerating Lisp code from yocs_msgs/ARPair.msg[0m
+[  3%] [34m[1mGenerating Javascript code from yocs_msgs/ARPairList.msg[0m
+[  3%] [34m[1mGenerating Lisp code from yocs_msgs/ARPairList.msg[0m
+Generating reconfiguration files for Joystick in yocs_msgs
+Wrote header file in /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/yocs_msgs/include/yocs_msgs/JoystickConfig.h
+[  4%] [34m[1mGenerating Lisp code from yocs_msgs/Wall.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from yocs_msgs/WallList.msg[0m
+[  5%] [34m[1mGenerating Javascript code from yocs_msgs/Wall.msg[0m
+[  5%] [34m[1mGenerating Lisp code from yocs_msgs/WallList.msg[0m
+[  5%] Built target yocs_msgs_gencfg
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages_py[0m
+[  6%] [34m[1mGenerating Lisp code from yocs_msgs/Column.msg[0m
+[  6%] [34m[1mGenerating Python from MSG yocs_msgs/ARPair[0m
+[  6%] [34m[1mGenerating Lisp code from yocs_msgs/ColumnList.msg[0m
+[  7%] [34m[1mGenerating Lisp code from yocs_msgs/MagicButton.msg[0m
+[  8%] [34m[1mGenerating Javascript code from yocs_msgs/WallList.msg[0m
+[  8%] [34m[1mGenerating Lisp code from yocs_msgs/NavigationControl.msg[0m
+[  8%] [34m[1mGenerating EusLisp code from yocs_msgs/Column.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from yocs_msgs/ColumnList.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from yocs_msgs/MagicButton.msg[0m
+[ 10%] [34m[1mGenerating Lisp code from yocs_msgs/NavigationControlStatus.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from yocs_msgs/Column.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG yocs_msgs/ARPairList[0m
+[ 12%] [34m[1mGenerating Javascript code from yocs_msgs/ColumnList.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from yocs_msgs/MagicButton.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigationControl.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from yocs_msgs/Table.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from yocs_msgs/NavigationControl.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG yocs_msgs/Wall[0m
+[ 14%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigationControlStatus.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG yocs_msgs/WallList[0m
+[ 16%] [34m[1mGenerating Lisp code from yocs_msgs/TableList.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from yocs_msgs/NavigationControlStatus.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from yocs_msgs/Table.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from yocs_msgs/Trajectory.msg[0m
+[ 18%] [34m[1mGenerating EusLisp code from yocs_msgs/Table.msg[0m
+[ 18%] [34m[1mGenerating EusLisp code from yocs_msgs/TableList.msg[0m
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages_cpp[0m
+[ 19%] [34m[1mGenerating Javascript code from yocs_msgs/TableList.msg[0m
+[ 19%] [34m[1mGenerating Javascript code from yocs_msgs/Trajectory.msg[0m
+[ 20%] [34m[1mGenerating C++ code from yocs_msgs/ARPair.msg[0m
+[ 21%] [34m[1mGenerating Lisp code from yocs_msgs/TrajectoryList.msg[0m
+[ 21%] [34m[1mGenerating Lisp code from yocs_msgs/Waypoint.msg[0m
+[ 22%] [34m[1mGenerating EusLisp code from yocs_msgs/Trajectory.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from yocs_msgs/TrajectoryList.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from yocs_msgs/TrajectoryList.msg[0m
+[ 25%] [34m[1mGenerating Lisp code from yocs_msgs/WaypointList.msg[0m
+[ 25%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToAction.msg[0m
+[ 25%] [34m[1mGenerating Python from MSG yocs_msgs/Column[0m
+[ 25%] [34m[1mGenerating C++ code from yocs_msgs/ARPairList.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToActionGoal.msg[0m
+[ 26%] [34m[1mGenerating Javascript code from yocs_msgs/Waypoint.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToActionResult.msg[0m
+[ 27%] [34m[1mGenerating C++ code from yocs_msgs/Wall.msg[0m
+[ 27%] [34m[1mGenerating C++ code from yocs_msgs/WallList.msg[0m
+[ 28%] [34m[1mGenerating EusLisp code from yocs_msgs/Waypoint.msg[0m
+[ 29%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToActionFeedback.msg[0m
+[ 29%] [34m[1mGenerating EusLisp code from yocs_msgs/WaypointList.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from yocs_msgs/WaypointList.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToAction.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToGoal.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToResult.msg[0m
+[ 31%] [34m[1mGenerating Lisp code from yocs_msgs/NavigateToFeedback.msg[0m
+[ 32%] [34m[1mGenerating C++ code from yocs_msgs/Column.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorAction.msg[0m
+[ 34%] [34m[1mGenerating Python from MSG yocs_msgs/ColumnList[0m
+[ 35%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToAction.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToActionGoal.msg[0m
+[ 37%] [34m[1mGenerating C++ code from yocs_msgs/MagicButton.msg[0m
+[ 37%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToActionResult.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorActionGoal.msg[0m
+[ 37%] [34m[1mGenerating C++ code from yocs_msgs/ColumnList.msg[0m
+[ 38%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorActionResult.msg[0m
+[ 38%] [34m[1mGenerating C++ code from yocs_msgs/NavigationControl.msg[0m
+[ 39%] [34m[1mGenerating C++ code from yocs_msgs/NavigationControlStatus.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToActionFeedback.msg[0m
+[ 40%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorActionFeedback.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToActionGoal.msg[0m
+[ 40%] [34m[1mGenerating C++ code from yocs_msgs/Table.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToGoal.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorGoal.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToResult.msg[0m
+[ 42%] [34m[1mGenerating Python from MSG yocs_msgs/MagicButton[0m
+[ 43%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToActionResult.msg[0m
+[ 43%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToActionFeedback.msg[0m
+[ 44%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToGoal.msg[0m
+[ 44%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorResult.msg[0m
+[ 45%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToResult.msg[0m
+[ 46%] [34m[1mGenerating C++ code from yocs_msgs/TableList.msg[0m
+[ 46%] [34m[1mGenerating Javascript code from yocs_msgs/NavigateToFeedback.msg[0m
+[ 46%] [34m[1mGenerating EusLisp code from yocs_msgs/NavigateToFeedback.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorAction.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from yocs_msgs/DockingInteractorFeedback.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeAction.msg[0m
+[ 48%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorActionGoal.msg[0m
+[ 50%] [34m[1mGenerating Python from MSG yocs_msgs/NavigationControl[0m
+[ 50%] [34m[1mGenerating Python from MSG yocs_msgs/NavigationControlStatus[0m
+[ 51%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeActionGoal.msg[0m
+[ 52%] [34m[1mGenerating Python from MSG yocs_msgs/Table[0m
+[ 53%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorAction.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeActionResult.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorActionResult.msg[0m
+[ 54%] [34m[1mGenerating Python from MSG yocs_msgs/TableList[0m
+[ 54%] [34m[1mGenerating C++ code from yocs_msgs/Trajectory.msg[0m
+[ 55%] [34m[1mGenerating Python from MSG yocs_msgs/Trajectory[0m
+[ 55%] [34m[1mGenerating Python from MSG yocs_msgs/TrajectoryList[0m
+[ 56%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeActionFeedback.msg[0m
+[ 56%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorActionFeedback.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorActionGoal.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeGoal.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorGoal.msg[0m
+[ 58%] [34m[1mGenerating C++ code from yocs_msgs/TrajectoryList.msg[0m
+[ 59%] [34m[1mGenerating Python from MSG yocs_msgs/Waypoint[0m
+[ 59%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorResult.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from yocs_msgs/DockingInteractorFeedback.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorActionResult.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorActionFeedback.msg[0m
+[ 62%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeResult.msg[0m
+[ 62%] [34m[1mGenerating C++ code from yocs_msgs/Waypoint.msg[0m
+[ 62%] [34m[1mGenerating Python from MSG yocs_msgs/WaypointList[0m
+[ 62%] [34m[1mGenerating Lisp code from yocs_msgs/LocalizeFeedback.msg[0m
+[ 63%] [34m[1mGenerating C++ code from yocs_msgs/WaypointList.msg[0m
+[ 64%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeActionGoal.msg[0m
+[ 64%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeAction.msg[0m
+[ 64%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToAction.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorGoal.msg[0m
+[ 66%] [34m[1mGenerating Lisp code from yocs_msgs/WaypointListService.srv[0m
+[ 67%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToActionGoal.msg[0m
+[ 67%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeActionResult.msg[0m
+[ 68%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeActionFeedback.msg[0m
+[ 68%] Built target yocs_msgs_generate_messages_lisp
+[ 68%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeGoal.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorResult.msg[0m
+[ 69%] [34m[1mGenerating EusLisp code from yocs_msgs/DockingInteractorFeedback.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeResult.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from yocs_msgs/LocalizeFeedback.msg[0m
+[ 70%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToActionResult.msg[0m
+[ 71%] [34m[1mGenerating Javascript code from yocs_msgs/WaypointListService.srv[0m
+[ 72%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToActionFeedback.msg[0m
+[ 73%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToAction[0m
+[ 73%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToActionGoal[0m
+[ 75%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToActionResult[0m
+[ 75%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToGoal.msg[0m
+[ 75%] Built target yocs_msgs_generate_messages_nodejs
+[ 75%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToActionFeedback[0m
+[ 76%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToGoal[0m
+[ 77%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeActionGoal.msg[0m
+[ 77%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeAction.msg[0m
+[ 78%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToResult.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeActionResult.msg[0m
+[ 79%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeActionFeedback.msg[0m
+[ 79%] [34m[1mGenerating C++ code from yocs_msgs/NavigateToFeedback.msg[0m
+[ 79%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeGoal.msg[0m
+[ 79%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToResult[0m
+[ 80%] [34m[1mGenerating Python from MSG yocs_msgs/NavigateToFeedback[0m
+[ 80%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorAction[0m
+[ 81%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeResult.msg[0m
+[ 82%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorActionGoal[0m
+[ 83%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorAction.msg[0m
+[ 83%] [34m[1mGenerating EusLisp code from yocs_msgs/LocalizeFeedback.msg[0m
+[ 83%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorActionGoal.msg[0m
+[ 84%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorActionResult.msg[0m
+[ 85%] [34m[1mGenerating EusLisp code from yocs_msgs/WaypointListService.srv[0m
+[ 85%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorActionFeedback.msg[0m
+[ 85%] [34m[1mGenerating EusLisp manifest code for yocs_msgs[0m
+[ 86%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorGoal.msg[0m
+[ 86%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorResult.msg[0m
+[ 86%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorActionResult[0m
+[ 87%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorActionFeedback[0m
+[ 87%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorGoal[0m
+[ 88%] [34m[1mGenerating C++ code from yocs_msgs/DockingInteractorFeedback.msg[0m
+[ 88%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeAction.msg[0m
+[ 89%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorResult[0m
+[ 90%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeActionGoal.msg[0m
+[ 90%] [34m[1mGenerating Python from MSG yocs_msgs/DockingInteractorFeedback[0m
+[ 91%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeAction[0m
+[ 91%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeActionResult.msg[0m
+[ 92%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeActionFeedback.msg[0m
+[ 92%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeActionGoal[0m
+[ 93%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeActionResult[0m
+[ 93%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeGoal.msg[0m
+[ 94%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeResult.msg[0m
+[ 94%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeActionFeedback[0m
+[ 94%] [34m[1mGenerating C++ code from yocs_msgs/LocalizeFeedback.msg[0m
+[ 95%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeGoal[0m
+[ 95%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeResult[0m
+[ 96%] [34m[1mGenerating C++ code from yocs_msgs/WaypointListService.srv[0m
+[ 97%] [34m[1mGenerating Python from MSG yocs_msgs/LocalizeFeedback[0m
+[ 97%] [34m[1mGenerating Python code from SRV yocs_msgs/WaypointListService[0m
+[ 97%] Built target yocs_msgs_generate_messages_cpp
+[ 98%] [34m[1mGenerating Python msg __init__.py for yocs_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for yocs_msgs[0m
+[100%] Built target yocs_msgs_generate_messages_eus
+[100%] Built target yocs_msgs_generate_messages_py
+[35m[1mScanning dependencies of target yocs_msgs_generate_messages[0m
+[100%] Built target yocs_msgs_generate_messages

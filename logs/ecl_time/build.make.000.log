@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target ecl_time[0m
+[ 12%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/cpuwatch_rt.cpp.o[0m
+[ 12%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/frequency.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/sleep_win.cpp.o[0m
+[ 25%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/timestamp_base.cpp.o[0m
+[ 31%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/snooze_pos.cpp.o[0m
+[ 43%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/snooze_win.cpp.o[0m
+[ 43%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/sleep_pos.cpp.o[0m
+[ 50%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/stopwatch.cpp.o[0m
+[ 56%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/timestamp_pos.cpp.o[0m
+[ 62%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/timestamp_win.cpp.o[0m
+[ 68%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time.dir/time_data.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_time/lib/libecl_time.so[0m
+[ 75%] Built target ecl_time
+[35m[1mScanning dependencies of target ecl_time_example_random_number_generator[0m
+[35m[1mScanning dependencies of target ecl_time_example_sleep[0m
+[ 81%] [32mBuilding CXX object src/examples/CMakeFiles/ecl_time_example_random_number_generator.dir/random_number_generator.cpp.o[0m
+[ 87%] [32mBuilding CXX object src/examples/CMakeFiles/ecl_time_example_sleep.dir/sleep.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_time/lib/ecl_time/demo_random_number_generator[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_time/lib/ecl_time/demo_sleep[0m
+[100%] Built target ecl_time_example_sleep
+[100%] Built target ecl_time_example_random_number_generator

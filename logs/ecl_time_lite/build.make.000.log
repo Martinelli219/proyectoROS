@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target ecl_time_lite[0m
+[ 11%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/cpu_time.cpp.o[0m
+[ 22%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/date.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/functions_mac.cpp.o[0m
+[ 44%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/functions_rt.cpp.o[0m
+[ 55%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/functions_pos.cpp.o[0m
+[ 66%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_time_lite.dir/functions_win.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_time_lite/lib/libecl_time_lite.so[0m
+[ 77%] Built target ecl_time_lite
+[35m[1mScanning dependencies of target demo_time_functions[0m
+[ 88%] [32mBuilding CXX object src/examples/CMakeFiles/demo_time_functions.dir/time_functions.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_time_lite/lib/ecl_time_lite/demo_time_functions[0m
+[100%] Built target demo_time_functions

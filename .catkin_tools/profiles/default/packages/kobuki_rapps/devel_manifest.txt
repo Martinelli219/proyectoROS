@@ -1,0 +1,5 @@
+Turtlebot_on_noetic/kobuki/kobuki_rapps
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_rapps/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_rapps/lib/pkgconfig/kobuki_rapps.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_rapps.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_rapps/share/kobuki_rapps/cmake/kobuki_rappsConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_rapps/cmake/kobuki_rappsConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_rapps/share/kobuki_rapps/cmake/kobuki_rappsConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_rapps/cmake/kobuki_rappsConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_interactive_markers
+
+Name: turtlebot_interactive_markers
+Description: Description of turtlebot_interactive_markers
+Version: 2.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

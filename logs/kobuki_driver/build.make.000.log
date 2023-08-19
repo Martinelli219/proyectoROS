@@ -1,0 +1,36 @@
+[35m[1mScanning dependencies of target kobuki[0m
+[  4%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/battery.cpp.o[0m
+[  9%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/command.cpp.o[0m
+[ 13%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/core_sensors.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/diff_drive.cpp.o[0m
+[ 22%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/event_manager.cpp.o[0m
+[ 27%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/firmware.cpp.o[0m
+[ 36%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/kobuki.cpp.o[0m
+[ 36%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/__/__/version_info.cpp.o[0m
+[ 40%] [32mBuilding CXX object src/driver/CMakeFiles/kobuki.dir/packet_finder.cpp.o[0m
+[ 45%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/libkobuki.so[0m
+[ 45%] Built target kobuki
+[35m[1mScanning dependencies of target demo_kobuki_simple_loop[0m
+[35m[1mScanning dependencies of target demo_kobuki_initialisation[0m
+[35m[1mScanning dependencies of target version_info[0m
+[35m[1mScanning dependencies of target demo_kobuki_sigslots[0m
+[35m[1mScanning dependencies of target simple_keyop[0m
+[35m[1mScanning dependencies of target kobuki_velocity_commands[0m
+[ 50%] [32mBuilding CXX object src/test/CMakeFiles/kobuki_velocity_commands.dir/velocity_commands.cpp.o[0m
+[ 54%] [32mBuilding CXX object src/test/CMakeFiles/demo_kobuki_sigslots.dir/sigslots.cpp.o[0m
+[ 59%] [32mBuilding CXX object src/tools/CMakeFiles/simple_keyop.dir/simple_keyop.cpp.o[0m
+[ 63%] [32mBuilding CXX object src/tools/CMakeFiles/version_info.dir/version_info.cpp.o[0m
+[ 68%] [32mBuilding CXX object src/test/CMakeFiles/demo_kobuki_simple_loop.dir/simple_loop.cpp.o[0m
+[ 72%] [32mBuilding CXX object src/test/CMakeFiles/demo_kobuki_initialisation.dir/initialisation.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/kobuki_velocity_commands[0m
+[ 77%] Built target kobuki_velocity_commands
+[ 81%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_initialisation[0m
+[ 81%] Built target demo_kobuki_initialisation
+[ 86%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_sigslots[0m
+[ 86%] Built target demo_kobuki_sigslots
+[ 90%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/demo_kobuki_simple_loop[0m
+[ 90%] Built target demo_kobuki_simple_loop
+[ 95%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/simple_keyop[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_driver/lib/kobuki_driver/version_info[0m
+[100%] Built target simple_keyop
+[100%] Built target version_info

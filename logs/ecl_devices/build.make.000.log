@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target ecl_devices[0m
+[ 18%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/detail/socket_exception_handler_pos.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/detail/error_handler.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/detail/exception_handler_pos.cpp.o[0m
+[ 25%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/detail/character_buffer.cpp.o[0m
+[ 31%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/ofile_pos.cpp.o[0m
+[ 37%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/ofile_w32.cpp.o[0m
+[ 43%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/serial_pos.cpp.o[0m
+[ 56%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/console.cpp.o[0m
+[ 56%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/shared_file.cpp.o[0m
+[ 62%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/serial_w32.cpp.o[0m
+[ 68%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/socket_client_pos.cpp.o[0m
+[ 75%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/socket_server_pos.cpp.o[0m
+[ 81%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_devices.dir/string.cpp.o[0m
+[ 87%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_devices/lib/libecl_devices.so[0m
+[ 87%] Built target ecl_devices
+[35m[1mScanning dependencies of target demo_serial_timeouts[0m
+[ 93%] [32mBuilding CXX object src/examples/CMakeFiles/demo_serial_timeouts.dir/serial_timeouts.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_devices/lib/ecl_devices/demo_serial_timeouts[0m
+[100%] Built target demo_serial_timeouts

@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target ecl_streams[0m
+[ 14%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_streams.dir/log_stream.cpp.o[0m
+[ 28%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_streams.dir/manipulators.cpp.o[0m
+[ 42%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_streams/lib/libecl_streams.so[0m
+[ 42%] Built target ecl_streams
+[35m[1mScanning dependencies of target demo_log_streams[0m
+[35m[1mScanning dependencies of target demo_console_streams[0m
+[ 57%] [32mBuilding CXX object src/examples/CMakeFiles/demo_console_streams.dir/console_streams.cpp.o[0m
+[ 71%] [32mBuilding CXX object src/examples/CMakeFiles/demo_log_streams.dir/log_streams.cpp.o[0m
+[ 85%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_streams/lib/ecl_streams/demo_log_streams[0m
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_streams/lib/ecl_streams/demo_console_streams[0m
+[100%] Built target demo_log_streams
+[100%] Built target demo_console_streams

@@ -1,0 +1,4 @@
+[ 40%] Built target ecl_io
+[ 60%] Built target ecl_demo_poll
+[100%] Built target ecl_demo_sockets
+[100%] Built target ecl_demo_socketpair

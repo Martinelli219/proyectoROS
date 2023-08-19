@@ -1,0 +1,6 @@
+Turtlebot_on_noetic/turtlebot_simulator/turtlebot_stdr
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_stdr/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_stdr/lib/pkgconfig/turtlebot_stdr.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/turtlebot_stdr.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_stdr/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_stdr/share/turtlebot_stdr/cmake/turtlebot_stdrConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/turtlebot_stdr/cmake/turtlebot_stdrConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/turtlebot_stdr/etc/catkin/profile.d/25.turtlebot-stdr.sh /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/etc/catkin/profile.d/25.turtlebot-stdr.sh

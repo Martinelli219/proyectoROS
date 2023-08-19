@@ -1,0 +1,6 @@
+Turtlebot_on_noetic/kobuki_core/kobuki_dock_drive
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_dock_drive/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_dock_drive/lib/libkobuki_dock_drive.so /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libkobuki_dock_drive.so
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_dock_drive/lib/pkgconfig/kobuki_dock_drive.pc /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/kobuki_dock_drive.pc
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_dock_drive/share/kobuki_dock_drive/cmake/kobuki_dock_driveConfig-version.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_dock_drive/cmake/kobuki_dock_driveConfig-version.cmake
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/kobuki_dock_drive/share/kobuki_dock_drive/cmake/kobuki_dock_driveConfig.cmake /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/kobuki_dock_drive/cmake/kobuki_dock_driveConfig.cmake

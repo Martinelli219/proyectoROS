@@ -1,0 +1,2 @@
+fetch/fetch_ros/fetch_ros
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/fetch_ros/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock

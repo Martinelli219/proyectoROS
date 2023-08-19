@@ -9,6 +9,5 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_xsturret_gazebo:$CMAKE_PREFIX_PATH"
 export PWD='/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/build/interbotix_xsturret_gazebo'
-export PYTHONPATH="/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/python3/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/interbotix_xsturret_gazebo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/interbotix_ros_turrets/interbotix_ros_xsturrets/interbotix_xsturret_gazebo:$ROS_PACKAGE_PATH"

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo_sigslots_lite.dir/sigslots.cpp.o  -o /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_sigslots_lite/lib/ecl_sigslots_lite/demo_sigslots_lite 

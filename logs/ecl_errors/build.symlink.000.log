@@ -1,0 +1,5 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/libecl_errors.so
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_errors.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/ecl_errors/ecl_demo_errors
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_errors/cmake/ecl_errorsConfig.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_errors/cmake/ecl_errorsConfig-version.cmake

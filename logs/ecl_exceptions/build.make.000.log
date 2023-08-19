@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target demo_exception_tracer[0m
+[35m[1mScanning dependencies of target ecl_exceptions[0m
+[ 16%] [32mBuilding CXX object src/examples/CMakeFiles/demo_exception_tracer.dir/exception_tracer.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_exceptions.dir/standard_exception.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_exceptions/lib/libecl_exceptions.so[0m
+[ 66%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_exceptions/lib/ecl_exceptions/demo_exception_tracer[0m
+[ 66%] Built target ecl_exceptions
+[35m[1mScanning dependencies of target demo_exceptions[0m
+[ 83%] [32mBuilding CXX object src/examples/CMakeFiles/demo_exceptions.dir/exceptions.cpp.o[0m
+[ 83%] Built target demo_exception_tracer
+[100%] [32m[1mLinking CXX executable /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_exceptions/lib/ecl_exceptions/demo_exceptions[0m
+[100%] Built target demo_exceptions

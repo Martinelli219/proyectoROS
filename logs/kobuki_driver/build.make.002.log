@@ -1,0 +1,7 @@
+[ 45%] Built target kobuki
+[ 54%] Built target kobuki_velocity_commands
+[ 63%] Built target demo_kobuki_sigslots
+[ 72%] Built target demo_kobuki_simple_loop
+[ 81%] Built target version_info
+[ 90%] Built target demo_kobuki_initialisation
+[100%] Built target simple_keyop

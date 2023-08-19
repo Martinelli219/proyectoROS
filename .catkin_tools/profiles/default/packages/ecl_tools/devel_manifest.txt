@@ -1,0 +1,2 @@
+Turtlebot_on_noetic/ecl_tools/ecl_tools
+/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_tools/cmake.lock /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/./cmake.lock

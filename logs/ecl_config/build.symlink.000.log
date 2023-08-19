@@ -1,0 +1,6 @@
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/lib/pkgconfig/ecl_config.pc
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/include/ecl/config/ecl.hpp
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_config/cmake/ecl_configConfig.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/share/ecl_config/cmake/ecl_configConfig-version.cmake
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/ecl_detect_endian
+Symlinking /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/bin/ecl_detect_posix

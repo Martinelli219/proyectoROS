@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ecl_statistics[0m
+[ 50%] [32mBuilding CXX object src/lib/CMakeFiles/ecl_statistics.dir/covariance_ellipsoid.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/ecl_statistics/lib/libecl_statistics.so[0m
+[100%] Built target ecl_statistics

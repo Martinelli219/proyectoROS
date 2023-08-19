@@ -1,0 +1,3 @@
+[ 63%] Built target ecl_threads
+[ 81%] Built target demo_mutex
+[100%] Built target demo_thread

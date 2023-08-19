@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/build/in
 include CMakeFiles/_interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand.dir/progress.make
 
 CMakeFiles/_interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand:
-	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py interbotix_xs_msgs /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs/msg/JointTrajectoryCommand.msg trajectory_msgs/JointTrajectoryPoint:std_msgs/Header:trajectory_msgs/JointTrajectory
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py interbotix_xs_msgs /home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs/msg/JointTrajectoryCommand.msg std_msgs/Header:trajectory_msgs/JointTrajectory:trajectory_msgs/JointTrajectoryPoint
 
 _interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand: CMakeFiles/_interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand
 _interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand: CMakeFiles/_interbotix_xs_msgs_generate_messages_check_deps_JointTrajectoryCommand.dir/build.make

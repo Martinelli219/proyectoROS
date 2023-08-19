@@ -1,0 +1,8 @@
+prefix=/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/devel/.private/yocs_controllers
+
+Name: yocs_controllers
+Description: Description of yocs_controllers
+Version: 0.12.1
+Cflags: -I/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/Turtlebot_on_noetic/yocs_controllers/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

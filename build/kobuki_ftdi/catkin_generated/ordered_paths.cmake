@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/martinelli/WidowX_XM430_Robot_Turret/catkin_ws/src/Turtlebot_on_noetic/ecl_core/ecl_command_line/include")

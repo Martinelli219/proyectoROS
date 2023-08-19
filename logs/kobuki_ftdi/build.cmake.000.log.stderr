@@ -1,0 +1,7 @@
+[31m[1mCMake Error[0m at /usr/share/cmake-3.16/Modules/FindPkgConfig.cmake:463 (message):
+  A required package was not found
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/FindPkgConfig.cmake:643 (_pkg_check_modules_internal)
+  CMakeLists.txt:7 (pkg_check_modules)
+
+
